@@ -1,9 +1,11 @@
-### Hi there 👋
 ### 👋 AI Research Engineer / Software Engineer 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=markussagen&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 #### Working on
+
+Lot's of cool things; either for my own curiousity or to make tools and applications that will enable others to work smarter.  
+Mostly working on tools in deep learning, NLP, neural search, QA, and generative models
 
 <a href="https://github.com/Hugging-Face-Supporter/tftokenizers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hugging-Face-Supporter&repo=tftokenizers&theme=tokyonight" />
