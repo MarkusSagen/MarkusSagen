@@ -13,9 +13,6 @@ Mostly working on tools in deep learning, NLP, neural search, QA, and generative
 <a href="https://github.com/Hugging-Face-Supporter/datacards">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hugging-Face-Supporter&repo=datacards&theme=tokyonight" />
 </a>
-<a href="https://github.com/MarkusSagen/from_scratch">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=markussagen&repo=from_scratch&theme=tokyonight" />
-</a>
 
 <!--
 **MarkusSagen/MarkusSagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
