@@ -1,4 +1,4 @@
-### 👋 AI Research Engineer / Software Engineer 
+### 👋 MLOps Engineer / AI Research Engineer / Software Engineer 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=markussagen&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
 
@@ -13,6 +13,8 @@ Mostly working on tools in deep learning, NLP, neural search, QA, and generative
 <a href="https://github.com/Hugging-Face-Supporter/datacards">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hugging-Face-Supporter&repo=datacards&theme=tokyonight" />
 </a>
+
+- 📫 How to reach me: <a href="mailto:markus.john.sagen@gmail.com?subject=GH%3A%20Outreach">Contact by @email</a>
 
 <!--
 **MarkusSagen/MarkusSagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
