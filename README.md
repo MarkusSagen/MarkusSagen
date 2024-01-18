@@ -1,8 +1,9 @@
-### 👋 MLOps Engineer / AI Research Engineer / Software Engineer 
+### 👋 MLOps Engineer / AI Research Engineer / Software Engineer
 
 #### Working on
 
-Lot's of cool things; either for my own curiousity or to make tools and applications that will enable others to work smarter.  
+Lot's of cool things;   
+Either for my own curiousity or to make tools and applications that will enable others to work smarter.  
 
 #### Contact
 
