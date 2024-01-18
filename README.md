@@ -5,14 +5,6 @@
 #### Working on
 
 Lot's of cool things; either for my own curiousity or to make tools and applications that will enable others to work smarter.  
-Mostly working on tools in deep learning, NLP, neural search, QA, and generative models
-
-<a href="https://github.com/Hugging-Face-Supporter/tftokenizers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hugging-Face-Supporter&repo=tftokenizers&theme=tokyonight" />
-</a>
-<a href="https://github.com/Hugging-Face-Supporter/datacards">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hugging-Face-Supporter&repo=datacards&theme=tokyonight" />
-</a>
 
 - 📫 How to reach me: <a href="mailto:markus.john.sagen@gmail.com?subject=GH%3A%20Outreach">Contact by @email</a>
 
