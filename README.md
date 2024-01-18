@@ -1,10 +1,10 @@
 ### 👋 MLOps Engineer / AI Research Engineer / Software Engineer 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=markussagen&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
-
 #### Working on
 
 Lot's of cool things; either for my own curiousity or to make tools and applications that will enable others to work smarter.  
+
+#### Contact
 
 - 📫 How to reach me: <a href="mailto:markus.john.sagen@gmail.com?subject=GH%3A%20Outreach">Contact by @email</a>
 
